@@ -20,8 +20,8 @@ app.config['SECRET_KEY'] = 'your secret key'
 
 app.config['MAIL_SERVER']='smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
-app.config['MAIL_USERNAME'] = 'a170069@unach.mx'
-app.config['MAIL_PASSWORD'] = 'DomingaG1.'
+app.config['MAIL_USERNAME'] = '*******'
+app.config['MAIL_PASSWORD'] = '*******'
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
